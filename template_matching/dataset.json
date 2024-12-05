@@ -1,0 +1,59 @@
+{
+    "true_positives" : [
+        {
+            "image": "test_00000.jpg",
+            "templates" : [
+                "GHS_00017.png",
+                "GHS_00012.png"
+            ]
+        },
+        {
+            "image": "test_00001.jpeg",
+            "templates" : [
+                "GHS_00014.png"
+            ]
+        },
+        {
+            "image": "test_00002.jpeg",
+            "templates" : [
+                "GHS_00014.png"
+            ]
+        },
+        {
+            "image": "test_00003.jpeg",
+            "templates" : [
+                "CE_00000.png",
+                "FoodSafe_00000.png",
+                "Recycle_00041.png",
+                "Recycle_00042.png"
+            ]
+        },
+        {
+            "image": "test_00005.jpeg",
+            "templates" : [
+                "GHS_00016.png",
+                "GHS_00016.png",
+                "GHS_00016.png",
+                "GHS_00014.png"
+            ]
+        },
+        {
+            "image": "test_00006.jpeg",
+            "templates" : [
+                "Recycle_00010.png"
+            ]
+        },
+        {
+            "image": "test_00007.jpeg",
+            "templates" : [
+                "Recycle_00042.png"
+            ]
+        },
+        {
+            "image": "test_00008.jpeg",
+            "templates" : [
+                "GHS_00016.png"
+            ]
+        }
+    ]
+}
