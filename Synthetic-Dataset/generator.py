@@ -159,14 +159,16 @@ def generate_dataset(minibatch, templates_folder, backgrounds_folder, output_fol
             background = background[:, :, :3]  # Remove alpha channel
         
         # Determine number of templates for this image (k ~ N(1, 1.5))
-        # k = max(1, int(abs(np.random.normal(1, 1.5))))
-        k = 1 # For now, just use 1 template per image
+        k = max(1, int(abs(np.random.normal(1, 1.5))))
         
         image_info = {
             "image_id": i,
             "background": bg_filenames[bg_idx],
             "templates": []
         }
+        
+        # Create a combined image that will have all templates applied
+        combined_img = background.copy()
         
         # For each template
         for j in range(k):
@@ -197,24 +199,23 @@ def generate_dataset(minibatch, templates_folder, backgrounds_folder, output_fol
                 # Set those pixels to white in the full mask
                 full_mask[warped_mask > 0] = 255
             
-            # Apply the warped template to the background
-            combined_img = background.copy()
+            # Apply the warped template to the background (for separate image)
+            separate_img = background.copy()
             for h in range(background.shape[0]):
                 for w in range(background.shape[1]):
                     if warped_mask is not None and warped_mask[h, w] > 0:
                         alpha = warped_mask[h, w] / 255.0
-                        combined_img[h, w] = (1 - alpha) * background[h, w] + alpha * warped_template[h, w]
+                        separate_img[h, w] = (1 - alpha) * background[h, w] + alpha * warped_template[h, w]
+                        # Also apply to the combined image
+                        combined_img[h, w] = (1 - alpha) * combined_img[h, w] + alpha * warped_template[h, w]
             
             # Save the individual mask
             mask_path = os.path.join(output_folder, "masks", f"img_{i:06d}_template_{j:02d}.png")
             cv2.imwrite(mask_path, full_mask)
             
-            # # Save a separate image with just this template
-            # separate_img_path = os.path.join(output_folder, "images", f"img_{i:06d}_template_{j:02d}.png")
-            # cv2.imwrite(separate_img_path, combined_img)
-            
-            # Update background for the next template
-            background = combined_img
+            # Save a separate image with just this template
+            separate_img_path = os.path.join(output_folder, "images", f"img_{i:06d}_template_{j:02d}.png")
+            cv2.imwrite(separate_img_path, separate_img)
             
             # Record information
             template_info = {
@@ -226,11 +227,15 @@ def generate_dataset(minibatch, templates_folder, backgrounds_folder, output_fol
             }
             image_info["templates"].append(template_info)
         
-        # Save the final combined image with all templates
-        final_img_path = os.path.join(output_folder, "images", f"img_{i:06d}_combined.png")
-        cv2.imwrite(final_img_path, background)
+        # For the combined image, if k=1, just use the first template image
+        if k == 1:
+            image_info["combined_image_file"] = f"images/img_{i:06d}_template_00.png"
+        else:
+            # Save the final combined image with all templates
+            final_img_path = os.path.join(output_folder, "images", f"img_{i:06d}_combined.png")
+            cv2.imwrite(final_img_path, combined_img)
+            image_info["combined_image_file"] = f"images/img_{i:06d}_combined.png"
         
-        image_info["combined_image_file"] = f"images/img_{i:06d}_combined.png"
         dataset_info["images"].append(image_info)
     
     # Save dataset info
