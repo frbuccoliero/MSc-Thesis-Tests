@@ -1,0 +1,5337 @@
+[
+  {
+    "name": "ViennaTraffic_00275.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00513.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00507.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00261.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00249.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E023.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E037.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P062.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00088.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00004.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00010.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00711.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00077.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00063.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00705.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W080.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00739.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00665.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00103.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00117.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00671.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00659.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00498.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00301.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00467.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00473.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00315.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00329.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00328.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00472.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00314.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00300.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00466.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00499.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00658.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00116.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00670.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00664.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00102.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00738.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00062.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00704.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00710.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00076.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00011.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00005.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00089.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E036.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P063.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E022.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00248.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00506.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00260.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00274.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00512.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00289.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00262.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00504.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00510.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00276.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00538.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P061.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E034.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W068.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E020.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P075.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00013.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E008.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00007.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P049.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00706.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00060.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00074.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00712.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00048.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00699.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00672.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00114.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00100.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00666.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00128.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00316.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00470.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00464.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00302.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00458.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00459.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00465.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00303.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00317.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00471.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00129.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00101.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00667.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00673.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00115.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00698.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00049.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00075.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00713.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00707.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00061.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00006.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P048.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E009.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00012.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E021.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P074.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P060.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W069.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E035.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00539.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00511.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00277.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00263.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00505.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00288.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00298.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00529.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00501.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00267.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00273.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00515.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00016.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P058.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E019.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00002.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E031.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P064.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P070.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W079.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E025.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00059.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00065.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00703.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00717.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00071.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00688.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00139.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00111.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00677.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00663.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00105.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M055.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00449.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00475.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00313.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00307.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00461.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00306.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00460.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00474.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00312.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00448.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00662.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00104.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00110.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00676.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00138.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00689.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00716.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00070.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00064.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00702.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00058.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P071.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E024.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W078.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E030.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P065.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00003.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E018.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00017.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P059.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00272.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00514.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00500.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00266.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00528.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00299.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00258.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00516.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00270.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00264.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00502.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00001.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00099.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00015.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E026.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P073.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P067.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E032.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00728.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00072.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00714.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00700.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00066.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00648.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00106.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00660.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00674.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00112.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M056.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00489.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00338.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00462.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00304.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00310.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00476.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00311.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00477.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00463.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00305.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00339.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00488.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M057.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00675.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00113.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00107.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00661.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00649.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00701.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00067.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00073.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00715.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00729.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P066.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E033.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E027.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P072.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00014.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00098.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00000.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00265.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00503.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00517.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00271.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00259.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F011.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F005.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00570.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00216.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00202.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00564.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00558.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E040.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P015.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P001.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W008.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E054.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W020.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P029.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00799.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E068.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00014.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00772.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00766.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00000.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00028.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00160.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00606.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00612.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00174.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00148.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M018.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00389.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M024.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00404.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00362.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00376.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00410.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00438.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00439.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00377.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00411.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00405.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00363.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00388.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M025.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M019.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00149.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00613.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00175.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00161.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00607.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00029.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00767.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00001.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00015.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00773.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00798.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W035.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W021.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P028.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E055.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W009.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E041.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P014.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00559.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00203.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00565.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00571.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00217.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F004.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F010.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00598.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F006.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F012.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00567.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00201.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00215.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00573.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00229.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E057.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P002.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P016.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E043.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W023.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00003.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00765.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00771.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00017.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00759.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00188.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00177.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00611.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00605.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00163.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00639.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00413.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00375.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00361.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00407.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00349.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00348.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00360.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00406.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00412.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00374.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M026.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00638.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00604.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00162.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00176.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00610.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00189.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00758.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00770.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00016.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00002.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00764.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W022.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P017.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E042.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E056.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P003.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00228.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00214.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00572.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00566.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00200.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F013.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F007.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00599.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F003.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00589.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F017.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00238.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00204.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00562.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00576.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00210.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W026.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P007.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E052.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E046.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P013.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00748.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00760.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00006.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00012.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00774.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00199.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00628.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00614.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00172.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00166.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00600.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M022.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00358.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00370.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00416.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00402.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00364.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00403.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00365.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00371.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00417.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00359.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M023.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00167.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00601.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00615.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00173.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00629.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00198.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00013.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00775.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00761.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00007.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00749.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E047.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P012.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P006.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E053.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W027.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00577.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00211.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00205.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00563.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00239.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F016.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00588.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F002.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F014.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00549.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00213.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00575.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00561.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00207.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00788.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W025.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P038.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P010.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E045.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W019.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E051.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P004.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00039.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00777.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00011.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00005.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00763.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00159.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00603.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00165.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00171.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00617.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00398.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M021.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M009.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00429.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00367.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00401.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00415.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00373.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00414.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00372.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00366.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00400.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00428.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M008.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M020.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00399.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00170.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00616.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00602.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00164.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00158.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00004.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00762.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00776.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00010.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00038.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E050.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P005.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P011.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W018.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E044.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W030.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P039.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00789.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W024.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00560.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00206.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00212.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00574.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00548.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F001.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F015.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00592.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00586.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F018.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00551.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00237.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00223.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00545.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00579.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E061.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P034.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00790.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P020.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00784.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W029.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W001.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P008.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W015.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E049.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00035.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00753.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00747.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00021.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00009.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00182.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00196.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00800.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00141.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00627.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00633.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00155.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00169.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00380.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00394.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M011.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M005.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00425.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00343.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00357.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00431.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00419.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00418.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00356.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00430.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00424.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00342.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M004.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M010.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00395.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00381.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00168.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00632.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00154.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00140.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00626.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00801.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00197.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00183.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00008.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00746.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00020.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00034.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00752.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E048.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W014.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P009.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00785.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P021.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W028.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E060.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00791.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P035.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00578.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00222.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00544.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00550.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00236.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F019.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00587.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00593.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00585.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00591.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00546.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00220.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00234.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00552.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00208.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P023.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00787.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P037.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00793.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E062.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W016.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W002.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00022.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00744.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00750.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00036.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00778.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00195.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00181.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00803.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00156.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00630.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00624.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00142.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00618.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00397.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00383.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M006.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M012.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00432.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00354.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00340.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00426.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00368.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00369.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00341.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00427.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00433.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00355.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M013.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M007.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00382.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00396.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00619.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00625.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00143.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00157.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00631.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00802.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00180.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00194.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00779.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00751.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00037.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00023.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00745.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W003.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W017.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00792.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P036.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E063.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00786.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P022.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00209.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00235.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00553.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00547.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00221.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00590.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00584.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00580.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00594.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00219.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00225.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00543.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00557.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00231.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W013.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W007.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P026.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00782.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E067.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P032.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00796.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00769.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00741.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00027.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00033.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00755.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00190.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00184.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00609.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00635.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00153.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00147.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00621.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M003.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M017.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00392.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00386.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00379.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00351.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00437.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00423.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00345.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00422.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00344.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00350.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00436.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00378.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00387.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00393.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M016.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M002.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00146.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00620.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00634.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00152.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00608.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00185.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00191.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00032.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00754.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00740.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00026.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00768.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00797.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P033.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00783.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P027.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W006.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W012.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00556.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00230.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00224.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00542.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00218.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00595.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00581.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00597.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F009.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00583.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00568.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00232.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00554.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00540.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00226.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E058.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W004.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W010.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P019.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P031.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00795.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E064.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E070.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P025.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00781.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00018.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00756.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00030.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00024.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00742.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00187.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00193.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00178.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00622.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00144.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00150.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00636.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M014.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00385.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00391.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00408.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00346.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00420.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00434.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00352.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00435.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00353.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00347.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00421.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00409.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00390.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00384.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M001.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M015.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00151.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00637.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00623.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00145.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00179.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00192.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00186.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00025.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00743.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00757.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00031.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00019.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00780.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P024.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00794.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P030.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E065.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W039.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W011.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P018.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W005.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E059.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00541.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00227.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00233.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00555.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00569.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00582.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_F008.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00596.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00297.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00283.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00254.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00532.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00526.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00240.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00268.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P057.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E002.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00095.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00019.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00081.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E016.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P043.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W076.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00730.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00056.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00042.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00724.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00718.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00687.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00693.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00644.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00122.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00136.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00650.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00678.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00485.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00491.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00320.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00446.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00452.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00334.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00308.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00309.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00453.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00335.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00321.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00447.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00490.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00484.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00679.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00137.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00651.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00645.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00123.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00692.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00686.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00719.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00043.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00725.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00731.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00057.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W077.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E017.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00080.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P042.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P056.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00018.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00094.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E003.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00269.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00527.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00241.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00255.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00533.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00282.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00296.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00280.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00294.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00243.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00525.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00531.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00257.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00519.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P040.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00082.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E015.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E001.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00096.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P054.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E029.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W075.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P068.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00727.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00041.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00055.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00733.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00069.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00690.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00684.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00653.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00135.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00121.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00647.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00109.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00492.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M059.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00486.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00337.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00451.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00445.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00323.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00479.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00478.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00444.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00322.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00336.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00450.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00487.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M058.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00493.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00108.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00120.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00646.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00652.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00134.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00685.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00691.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00068.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00054.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00732.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00726.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00040.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P069.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W074.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E028.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00097.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P055.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P041.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E014.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00083.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00518.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00530.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00256.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00242.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00524.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00295.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00281.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00285.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00291.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00508.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00520.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00246.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00252.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00534.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W070.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00023.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E038.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00087.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E010.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P045.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P051.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E004.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00093.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00078.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00044.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00722.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00736.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00050.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00695.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00681.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00118.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00130.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00656.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00642.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00124.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M060.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00497.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00483.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00468.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00454.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00332.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00326.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00440.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00327.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00441.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00455.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00333.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00469.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00482.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00496.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M061.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00643.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00125.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00131.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00657.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00119.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00680.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00694.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00737.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00051.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00045.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00723.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00079.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P050.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00092.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E011.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00086.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P044.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E039.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00022.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W071.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00253.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00535.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00521.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00247.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00509.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00290.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00284.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00292.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00286.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00279.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00537.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00251.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00245.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00523.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00020.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W073.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E007.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00090.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P052.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P046.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00084.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00008.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E013.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00709.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00053.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00735.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00721.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00047.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00682.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00696.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00669.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00127.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00641.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00655.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00133.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00480.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00494.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00319.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00443.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00325.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00331.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00457.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00330.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00456.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00442.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00324.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00318.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00495.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00481.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_M062.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00654.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00132.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00126.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00640.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00668.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00697.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00683.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00720.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00046.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00052.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00734.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00708.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P047.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_E012.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00009.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00085.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00091.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_P053.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ISO7010_W072.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "GHS_00021.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00244.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00522.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00536.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00250.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00278.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00287.png",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ViennaTraffic_00293.png",
+    "type": "rectangle",
+    "attributes": []
+  }
+]
