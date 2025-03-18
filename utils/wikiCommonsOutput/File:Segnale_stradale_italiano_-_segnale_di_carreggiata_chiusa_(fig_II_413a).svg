@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="476.25mm"
+   height="529.16669mm"
+   viewBox="0 0 476.25 529.16669"
+   version="1.1"
+   id="svg5871"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Segnale stradale italiano - segnale di carreggiata chiusa (fig II 413a).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5873"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.26960926"
+     inkscape:cx="1103.4487"
+     inkscape:cy="725.12346"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5868" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(185.73365,189.6394)">
+    <g
+       id="g5848"
+       transform="translate(-826.92542,-6498.8811)">
+      <rect
+         style="fill:#f2ef0c;fill-rule:evenodd;stroke-width:23.479;paint-order:markers fill stroke"
+         id="rect1701-1"
+         width="476.25"
+         height="529.16669"
+         x="641.19177"
+         y="6309.2417" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7.9375;paint-order:markers fill stroke"
+         id="rect1701-6-2"
+         width="460.375"
+         height="513.29169"
+         x="649.12933"
+         y="6317.1792"
+         ry="27.78125"
+         rx="27.78125" />
+      <g
+         id="g5787"
+         transform="translate(2.8234954,-2.7963262)">
+        <path
+           id="path4594-1-7-9-0-1-0-3-0-6-1-8-3"
+           style="fill:#000000;fill-opacity:0.963077;stroke-width:84.5094;paint-order:fill markers stroke"
+           d="m 826.529,6378.8078 -32.735,56.7177 c -2.1126,3.6575 0.5883,4.9055 3.2733,4.1858 l 14.8077,-3.6427 c 3.3793,-0.902 4.5656,-0.9314 4.5479,2.6467 v 28.3459 c 0,16.6699 5.9481,21.5962 13.3379,30.5899 l 157.4196,184.1717 c 5.2722,3.9761 7.5746,13.0657 8.8096,19.7334 v 99.2456 h 20.2131 v -102.3794 c 0,-12.2972 -5.6941,-21.2711 -13.2311,-31.4002 L 846.2084,6484.6186 c -5.662,-5.3525 -9.5722,-11.2156 -9.5722,-16.84 v -29.0633 c 0,-3.58 1.1695,-3.5516 4.5487,-2.6467 l 14.8088,3.6427 c 2.6888,0.7256 5.3839,-0.5291 3.2722,-4.1858 z"
+           sodipodi:nodetypes="cccccccccccccccccccc" />
+        <path
+           id="path4594-1-7-9-0-1-0-3-0-6-1-8-6-3"
+           style="fill:#000000;fill-opacity:0.963077;stroke-width:84.5094;paint-order:fill markers stroke"
+           d="m 744.0329,6378.8081 -32.735,56.7177 c -2.1126,3.6575 0.5882,4.9056 3.2733,4.1859 l 14.8077,-3.6428 c 3.3793,-0.902 4.5656,-0.9314 4.5479,2.6468 v 28.3458 c 0,16.6699 5.948,21.5963 13.3379,30.5899 l 174.9221,207.7621 c 5.2721,6.0054 9.224,10.2522 10.459,16.9199 v 78.4688 h 20.2131 v -81.6026 c 0,-12.2972 -13.6851,-25.5601 -21.222,-35.6891 L 763.7122,6484.6189 c -5.662,-5.3525 -9.5722,-11.2155 -9.5722,-16.8399 v -29.0633 c 0,-3.58 1.1696,-3.5517 4.5488,-2.6468 l 14.8088,3.6428 c 2.6888,0.7256 5.3838,-0.5292 3.2722,-4.1859 z"
+           sodipodi:nodetypes="cccccccccccccccccccc" />
+        <path
+           style="color:#000000;fill:#d92124;fill-rule:evenodd;paint-order:markers fill stroke"
+           d="m 918.9033,6347.7666 v 121.4747 l 137.7598,228.0781 v 103.4824 h 23.4785 V 6690.7803 L 942.3838,6462.7022 v -114.9356 z"
+           id="path6470-3" />
+        <path
+           style="color:#000000;fill:#d92124;fill-rule:evenodd;paint-order:markers fill stroke"
+           d="m 672.84472,6347.7666 v 121.4747 l 137.75978,228.0781 v 103.4824 H 834.083 V 6690.7803 L 696.3252,6462.7002 v -114.9336 z"
+           id="path6470-7-0" />
+        <path
+           id="path2013-7"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:23.479;paint-order:markers fill stroke"
+           d="m 874.9787,6741.1006 c -8.0051,4.6218 -17.8786,15.0945 -17.8786,29.2658 v 30.1337 h 35.7578 v -30.1337 c 0,-14.1713 -9.8741,-24.644 -17.8792,-29.2658 z"
+           sodipodi:nodetypes="csccsc" />
+        <path
+           id="path2013-5-0"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:23.479;paint-order:markers fill stroke"
+           d="m 874.0568,6407.1656 c -8.005,-4.6218 -17.8786,-15.0946 -17.8786,-29.266 v -30.134 h 35.7578 v 30.134 c 0,14.1714 -9.8741,24.6442 -17.8792,29.266 z"
+           sodipodi:nodetypes="csccsc" />
+      </g>
+    </g>
+  </g>
+</svg>

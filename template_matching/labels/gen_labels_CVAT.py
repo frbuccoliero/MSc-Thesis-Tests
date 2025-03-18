@@ -15,7 +15,7 @@ import os
 import json
 
 # Path to the templates folder
-templates_folder = 'templates'
+templates_folder = '../dataset/templates'
 templates_folder = os.path.join(os.path.dirname(__file__), templates_folder)
 
 # Path to the labels file

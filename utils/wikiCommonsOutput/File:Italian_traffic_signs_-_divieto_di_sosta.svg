@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="159.27916mm"
+   height="159.27916mm"
+   viewBox="0 0 159.27916 159.27916"
+   version="1.1"
+   id="svg18225"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="1992 - divieto di sosta.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18227"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76257015"
+     inkscape:cx="384.88263"
+     inkscape:cy="196.04754"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs18222" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.6314493,-40.756419)">
+    <g
+       id="g1439"
+       transform="translate(-342.36099,-1043.0332)">
+      <circle
+         style="fill:#000000;stroke-width:11.7623;stroke-linejoin:bevel"
+         id="path1239"
+         cx="425.63202"
+         cy="1163.4292"
+         r="79.63958" />
+      <circle
+         style="fill:#ffffff;stroke-width:18.9205;stroke-linejoin:bevel;stroke-opacity:0.643077"
+         id="path2877-8"
+         cx="425.63196"
+         cy="1163.4292"
+         r="79.375" />
+      <circle
+         style="fill:#d40000;stroke-width:18.2898;stroke-linejoin:bevel;stroke-opacity:0.643077"
+         id="path2877-8-4"
+         cx="425.63202"
+         cy="1163.4292"
+         r="76.729164" />
+      <circle
+         style="fill:#ffffff;stroke-width:10.8171;stroke-linejoin:bevel"
+         id="path2447-7"
+         cx="425.63205"
+         cy="1163.4292"
+         r="56.885418" />
+      <circle
+         style="fill:#00408b;stroke-width:12.9094;stroke-linejoin:bevel"
+         id="path2609-5"
+         cx="425.63205"
+         cy="1163.4292"
+         r="52.916668" />
+      <g
+         id="g1134"
+         transform="rotate(45.00002,382.53572,1387.2023)">
+        <g
+           id="g1129">
+          <path
+             style="color:#000000;fill:#ffffff;stroke-linejoin:bevel"
+             d="m 201.86121,1188.9063 v 19.1816 h 105.83333 v -19.1816 z"
+             id="path2769-1-9-8"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="color:#000000;fill:#d40000;stroke-linejoin:bevel"
+             d="m 197.36323,1192.875 1.2e-4,11.2441 h 114.82911 v -11.2441 z"
+             id="path1119"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

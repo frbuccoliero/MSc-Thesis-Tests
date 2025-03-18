@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="76.729156mm"
+   height="190.5mm"
+   viewBox="0 0 76.729156 190.5"
+   version="1.1"
+   id="svg9979"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Segnale stradale italiano - lanterne semaforiche per i veicoli di trasporto pubblico (figura II 452).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9981"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76257015"
+     inkscape:cx="276.04018"
+     inkscape:cy="67.534771"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs9976" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-32.415794,24.469884)">
+    <g
+       id="g37751"
+       transform="translate(-38.360247,-15164.429)">
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.05833;paint-order:markers fill stroke"
+         id="rect36686-5-3"
+         width="75.67083"
+         height="189.44167"
+         x="71.305206"
+         y="15140.488" />
+      <g
+         id="g33477-8"
+         transform="translate(-105.83296,140.07136)">
+        <circle
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.23133;paint-order:markers fill stroke"
+           id="path5756-3-7-2-02"
+           cx="-10782.858"
+           cy="10478.84"
+           r="26.458334"
+           transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+        <rect
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.250836;paint-order:markers fill stroke"
+           id="rect32568-2"
+           width="9.260417"
+           height="42.333332"
+           x="15029.661"
+           y="-236.14037"
+           transform="rotate(90)" />
+      </g>
+      <g
+         id="g33477-9-9"
+         transform="rotate(90,31.167113,15112.264)">
+        <circle
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.23133;paint-order:markers fill stroke"
+           id="path5756-3-7-2-9-5"
+           cx="-10782.858"
+           cy="10478.84"
+           r="26.458334"
+           transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+        <rect
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.250836;paint-order:markers fill stroke"
+           id="rect32568-95-4"
+           width="9.260417"
+           height="42.333332"
+           x="15029.661"
+           y="-236.14037"
+           transform="rotate(90)" />
+      </g>
+      <g
+         id="g34933-2"
+         transform="translate(46.302035,245.57364)">
+        <circle
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.23133;paint-order:markers fill stroke"
+           id="path5756-3-7-2-1-3"
+           cx="-10643.712"
+           cy="10554.845"
+           r="26.458334"
+           transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+        <path
+           sodipodi:type="star"
+           style="fill:#f2ef0c;fill-rule:evenodd;paint-order:markers fill stroke"
+           id="path32674-7"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="3370.1299"
+           sodipodi:cy="13751.061"
+           sodipodi:r1="28.98601"
+           sodipodi:r2="14.493004"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:arg2="-0.52359878"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 3370.1299,13722.075 25.1026,43.479 -50.2052,0 z"
+           inkscape:transform-center-x="0.00012307725"
+           inkscape:transform-center-y="-5.3466885"
+           transform="matrix(0.73780781,0,0,0.73780746,-2423.6696,4844.2276)" />
+      </g>
+    </g>
+  </g>
+</svg>

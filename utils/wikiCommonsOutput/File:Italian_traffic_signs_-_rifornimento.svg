@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="158.75mm"
+   height="238.125mm"
+   viewBox="0 0 158.75 238.125"
+   version="1.1"
+   id="svg12037"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Segnale stradale italiano - rifornimento (figura II 356).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12039"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76257015"
+     inkscape:cx="357.34418"
+     inkscape:cy="159.3296"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs12034" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-10.835234,47.588161)">
+    <g
+       id="g12076"
+       transform="translate(922.9205,-1110.2803)">
+      <rect
+         style="fill:#00408b;fill-rule:evenodd;stroke-width:29.4791;paint-order:markers fill stroke"
+         id="rect3812-6-0-8-49"
+         width="158.75"
+         height="238.125"
+         x="-912.08527"
+         y="1062.6921" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.175;paint-order:markers fill stroke"
+         id="rect3812-0-8-2-9-8"
+         width="152.39999"
+         height="231.77499"
+         x="-908.91028"
+         y="1065.8672"
+         ry="10.31875"
+         rx="10.31875" />
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:4.84527;paint-order:markers fill stroke"
+         id="rect10936-6-3-8-4"
+         width="119.0625"
+         height="119.0625"
+         x="-892.24152"
+         y="1082.5359" />
+      <path
+         id="rect10910-2"
+         style="fill:#000000;fill-rule:evenodd;stroke-width:5.83985;stroke-opacity:0.329231;paint-order:markers fill stroke"
+         d="m -867.1492,1096.7902 v 42.3288 h 5.73056 v 49.0934 h 49.67317 v -41.0683 c 2.15088,0.028 3.29529,0.4032 3.70802,0.7458 0.42945,0.3565 0.92821,1.0823 0.92821,3.7243 v 26.5457 c 0,2.7629 1.1078,5.2536 2.8075,6.9242 1.69974,1.6705 3.86151,2.5771 6.04323,2.9182 4.36348,0.6822 9.3581,-0.7383 11.69402,-5.0841 1.18065,-2.1964 1.52531,-4.7824 1.07152,-7.6196 v -0.01 l -9.30017,-57.5549 -0.0189,-0.091 c 0.0252,0.1091 -0.0542,-0.5945 -0.13992,-1.4281 -0.0857,-0.8337 -0.34011,-1.8602 -0.63999,-3.0599 -0.17458,-0.699 -0.2855,-1.3487 -0.57322,-2.0959 -0.28991,-0.7529 -0.79295,-1.4834 -1.44608,-1.972 -0.5777,-0.4322 -1.19598,-0.7021 -2.01767,-0.8126 -1.02908,-0.1384 -2.3016,-0.055 -3.33185,-0.055 h -0.85982 v 6.3461 h 0.86146 c 0.81026,0 0.99697,0.1506 1.08294,0.2149 0.086,0.064 0.18403,0.168 0.31418,0.5293 0.13015,0.3613 0.23666,0.9314 0.30126,1.5584 0.0611,0.5916 0.0501,1.1486 0.22815,2.0111 l 9.27412,57.4198 c 0.21964,1.3884 -0.22059,3.2927 -0.39246,3.612 -0.65537,1.2193 -2.9484,2.163 -5.12804,1.8222 -1.08984,-0.1705 -2.01087,-0.6185 -2.57784,-1.1757 -0.56701,-0.5573 -0.90546,-1.1729 -0.90546,-2.4004 v -26.5456 c 0,-3.6051 -0.92827,-6.6975 -3.22599,-8.6049 -2.22969,-1.8508 -4.95283,-2.1926 -7.75637,-2.2114 v -1.679 h 6.06114 v -42.3287 z" />
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:4.1409;stroke-opacity:0.329231;paint-order:markers fill stroke"
+         id="rect10910-4-8-7"
+         width="47.350101"
+         height="27.626314"
+         x="-860.091"
+         y="1104.1415"
+         ry="2.8708041"
+         rx="2.8707945" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="93.133331mm"
+   height="357.71667mm"
+   viewBox="0 0 93.133331 357.71667"
+   version="1.1"
+   id="svg11821"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Segnale stradale italiano - secondo pannello distanziometrico.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11823"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76257015"
+     inkscape:cx="236.69954"
+     inkscape:cy="437.33682"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs11818" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.602727,93.505542)">
+    <g
+       id="g4242"
+       transform="translate(-449.59637,4.742284)">
+      <rect
+         style="fill:#000000;fill-rule:evenodd;stroke-width:16.4701"
+         id="rect12403-83-5"
+         width="93.133331"
+         height="357.71667"
+         x="492.1991"
+         y="-98.247826" />
+      <g
+         id="g4220">
+        <rect
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:16.4111"
+           id="rect12403-8"
+           width="92.604164"
+           height="357.1875"
+           x="492.46381"
+           y="-97.983299" />
+        <g
+           id="g12520"
+           transform="translate(0,2.6632613e-4)">
+          <path
+             id="rect12405-7"
+             style="fill:#d40000;fill-rule:evenodd;stroke-width:10.364"
+             d="M 492.46389,66.190426 585.0678,-26.413713 V 14.067565 L 492.46364,106.67171 Z"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             id="rect12405-2-2-3"
+             style="fill:#d40000;fill-rule:evenodd;stroke-width:10.364"
+             d="m 492.46418,147.15293 92.60391,-92.604144 v 40.48128 l -92.60416,92.604144 z"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

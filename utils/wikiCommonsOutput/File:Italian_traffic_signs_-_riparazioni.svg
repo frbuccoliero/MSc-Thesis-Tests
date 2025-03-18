@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="158.75mm"
+   height="238.125mm"
+   viewBox="0 0 158.75 238.125"
+   version="1.1"
+   id="svg2260"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Segnale stradale italiano - assistenza meccanica (figura II 354).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2262"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76257015"
+     inkscape:cx="390.78372"
+     inkscape:cy="569.12797"
+     inkscape:window-width="1645"
+     inkscape:window-height="1020"
+     inkscape:window-x="128"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2257" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.8142525,22.606907)">
+    <g
+       id="g10382"
+       transform="translate(890.80998,-814.87479)">
+      <rect
+         style="fill:#00408b;fill-rule:evenodd;stroke-width:29.4791;paint-order:markers fill stroke"
+         id="rect3812-6-0-8"
+         width="158.75"
+         height="238.125"
+         x="-888.99573"
+         y="792.26788" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.175;paint-order:markers fill stroke"
+         id="rect3812-0-8-2-9"
+         width="152.39999"
+         height="231.77499"
+         x="-885.82074"
+         y="795.44287"
+         ry="10.31875"
+         rx="10.31875" />
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:4.84527;paint-order:markers fill stroke"
+         id="rect10936-6-3-8"
+         width="119.0625"
+         height="119.0625"
+         x="-869.15198"
+         y="812.11157" />
+      <path
+         id="rect9568-8"
+         style="fill:#000000;fill-rule:evenodd;stroke-width:9.47806;stroke-opacity:0.329231;paint-order:markers fill stroke"
+         d="m -810.15416,821.59466 -23.48413,4.92775 v 9.8571 h 25.63532 v 6.0351 h -25.63532 v 9.43045 h 22.84902 a 2.8755403,2.8755403 0 0 1 2.7863,2.82216 v 11.93666 l -1.26042,2.66579 v 52.74607 h 13.72961 v -52.74607 l -1.26044,-2.66579 v -11.93666 -0.006 a 2.8755403,2.8755403 0 0 1 2.78632,-2.81728 h 7.53165 v -9.43044 h -10.31634 v -6.03511 h 10.3147 v -14.78485 z" />
+    </g>
+  </g>
+</svg>

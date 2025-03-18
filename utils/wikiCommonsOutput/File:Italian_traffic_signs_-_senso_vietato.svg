@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="602px" height="602px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style type="text/css">
+  </style>
+  <g id="sign">
+    <circle cx="301px" cy="301px" r="300px" fill="white" />
+    <circle cx="301px" cy="301px" r="290px" fill="rgb(212, 0, 0)" />
+    <rect x="26px" y="231px" width="550px" height="140px" fill="white" />
+  </g>
+  <g id="sign-with-contrast-rim">
+    <circle cx="301px" cy="301px" r="301px" fill="black" />
+    <use xlink:href="#sign" />
+  </g>
+</svg>

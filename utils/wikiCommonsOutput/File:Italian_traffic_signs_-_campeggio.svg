@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="158.75mm"
+   height="238.125mm"
+   viewBox="0 0 158.75 238.125"
+   version="1.1"
+   id="svg975"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Segnale stradale italiano - campeggio (figura II 363).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview977"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76257015"
+     inkscape:cx="479.30017"
+     inkscape:cy="173.75451"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs972" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(21.432242,43.771622)">
+    <g
+       id="g949"
+       transform="translate(143.98948,-445.84697)">
+      <rect
+         style="fill:#784421;fill-rule:evenodd;stroke-width:29.4791;paint-order:markers fill stroke"
+         id="rect3812-8"
+         width="158.75"
+         height="238.125"
+         x="-165.42172"
+         y="402.07535" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.175;paint-order:markers fill stroke"
+         id="rect3812-0-2"
+         width="152.39999"
+         height="231.77499"
+         x="-162.24673"
+         y="405.25034"
+         ry="10.31875"
+         rx="10.31875" />
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:4.84527;paint-order:markers fill stroke"
+         id="rect10936-1"
+         width="119.0625"
+         height="119.0625"
+         x="-145.57797"
+         y="421.9191" />
+      <g
+         id="g21033-3"
+         transform="matrix(3.1512769,0,0,3.1512769,-887.46544,-904.34859)">
+        <path
+           id="path20978-1"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:3.175;paint-order:markers fill stroke"
+           d="m 255.19114,427.43644 -9.49813,10.97246 h 4.6731 l 4.82503,-5.57382 4.82503,5.57382 h 4.67258 z" />
+        <path
+           id="path20978-7-4"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.67594;paint-order:markers fill stroke"
+           d="m 253.169,424.35394 2.02226,2.33629 2.02174,-2.33629 h -0.8951 l -1.12716,1.30225 -1.12715,-1.30225 z" />
+      </g>
+      <g
+         id="g21677-3"
+         transform="matrix(3.1512769,0,0,3.1512769,-887.46544,-904.34859)">
+        <path
+           id="path21089-4"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:3.175;paint-order:markers fill stroke"
+           d="m 245.54625,442.24122 -1.34927,5.64255 h 3.78013 v -4.82089 h 3.80287 v 4.82089 h 13.92266 l -0.45992,-5.64255 z" />
+        <path
+           id="path21089-3-4"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:3.175;paint-order:markers fill stroke"
+           d="m 244.19698,448.44188 0.62115,4.18424 h -3.49591 v 0.85886 h 13.77125 a 2.5804999,2.5805345 0 0 1 2.56832,-2.41174 2.5804999,2.5805345 0 0 1 2.57452,2.41174 h 5.00641 l 0.45992,-5.0431 h -13.92266 v 4.22041 h -3.80287 v -4.22041 z" />
+        <path
+           id="rect21493-7"
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:3.16203;paint-order:markers fill stroke"
+           d="m 257.45325,443.06064 h 7.04512 l 0.27308,3.74133 h -7.3182 z"
+           sodipodi:nodetypes="ccccc" />
+        <circle
+           style="fill:#000000;fill-rule:evenodd;stroke-width:7.47532;paint-order:markers fill stroke"
+           id="path21549-6-1-2"
+           cx="257.66315"
+           cy="453.69702"
+           r="2.0167201" />
+        <ellipse
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:3.4564;paint-order:markers fill stroke"
+           id="path21549-9"
+           cx="257.66299"
+           cy="453.69702"
+           rx="0.9325"
+           ry="0.93246204" />
+      </g>
+    </g>
+  </g>
+</svg>

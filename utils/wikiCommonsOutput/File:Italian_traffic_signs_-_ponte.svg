@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="158.75mm"
+   height="158.75mm"
+   viewBox="0 0 158.75 158.75"
+   version="1.1"
+   id="svg11157"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Segnale stradale italiano 1992 - ponte (autostradale).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11159"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76257015"
+     inkscape:cx="451.76172"
+     inkscape:cy="-68.846126"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs11154" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(14.146033,28.718464)">
+    <g
+       id="g10323-4"
+       transform="translate(4399.5151,-169.91779)">
+      <rect
+         style="fill:#27884d;fill-rule:evenodd;stroke-width:11.8161"
+         id="rect9105-4-5"
+         width="158.75"
+         height="158.75"
+         x="-4413.6611"
+         y="141.19933" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.64583"
+         id="rect9105-4-6-1"
+         width="153.45833"
+         height="153.45833"
+         x="-4411.0151"
+         y="143.84514"
+         ry="7.9375"
+         rx="7.9375" />
+      <path
+         id="rect9233-3"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:9.28917"
+         d="m -4396.1689,192.44592 v 56.25703 h 9.7257 a 55.24405,55.244388 0 0 1 52.1568,-37.12962 55.24405,55.244388 0 0 1 52.1886,37.12962 h 9.6942 v -56.25703 z" />
+    </g>
+  </g>
+</svg>

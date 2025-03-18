@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="76.729156mm"
+   height="190.5mm"
+   viewBox="0 0 76.729156 190.5"
+   version="1.1"
+   id="svg34793"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Segnale stradale italiano - lanterna semaforica veicolare normale (figura II 449).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview34795"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76257015"
+     inkscape:cx="318.00353"
+     inkscape:cy="220.96328"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs34790" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.313016,-16.125397)">
+    <g
+       id="g31858"
+       transform="translate(-6274.3961,-17266.072)">
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.05833;paint-order:markers fill stroke"
+         id="rect36686-5-3-0-1-9"
+         width="75.67083"
+         height="189.44167"
+         x="6296.2383"
+         y="17282.727" />
+      <circle
+         style="fill:#d92124;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;paint-order:markers fill stroke"
+         id="path5756-3-7-2-02-4-1-3"
+         cx="-16723.553"
+         cy="7765.8188"
+         r="26.458334"
+         transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+      <circle
+         style="fill:#27884d;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;paint-order:markers fill stroke"
+         id="path5756-3-7-2-9-5-5-3-9"
+         cx="-7851.8794"
+         cy="-16809.613"
+         r="26.458334"
+         transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)" />
+      <circle
+         style="fill:#f2ef0c;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;paint-order:markers fill stroke"
+         id="path5756-3-7-2-1-3-7-4-4"
+         cx="-16766.582"
+         cy="7808.8496"
+         r="26.458334"
+         transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="357.1875mm"
+   height="529.16663mm"
+   viewBox="0 0 357.1875 529.16663"
+   version="1.1"
+   id="svg12842"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Segnale stradale italiano - segnale di carreggiata chiusa (fig II 413c).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12844"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76257015"
+     inkscape:cx="634.04003"
+     inkscape:cy="773.04364"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs12839" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(62.361277,176.45483)">
+    <g
+       id="g5809"
+       transform="translate(-1336.7978,-6493.6936)">
+      <rect
+         style="fill:#f2ef0c;fill-rule:evenodd;stroke-width:19.237;stroke-opacity:0.68;paint-order:markers fill stroke"
+         id="rect4727-8"
+         width="357.1875"
+         height="529.16663"
+         x="1274.4365"
+         y="6317.2388" />
+      <g
+         id="g5779">
+        <path
+           id="path4594-1-7-9-0-1-0-3-0-6-1-8-6-3-0-6"
+           style="fill:#000000;stroke-width:84.5091;paint-order:fill markers stroke"
+           d="m 1571.9277,6390.546 31.2598,54.1619 c 2.0174,3.4926 -0.5617,4.6844 -3.1257,3.9972 l -14.1404,-3.4786 c -3.2271,-0.8614 -4.36,-0.8895 -4.3431,2.5275 v 10.9649 c 0,15.9188 -3.9639,22.4834 -10.7633,32.0155 l -148.2864,209.7257 c -5.0345,5.7347 -5.8241,14.6355 -5.8241,18.1306 v 89.4914 h -19.3022 v -89.4914 c 0,-14.6604 2.4696,-18.3912 9.6668,-28.0638 l 145.2081,-208.3765 c 5.4069,-8.0287 9.9989,-13.7704 9.9989,-23.4315 v -10.9649 c 0,-3.4186 -1.1169,-3.3916 -4.3438,-2.5275 l -14.1415,3.4786 c -2.5677,0.6929 -5.1413,-0.5054 -3.1248,-3.9972 z"
+           sodipodi:nodetypes="cccccccccccccccccccc" />
+        <path
+           id="path4594-1-7-9-0-1-0-3-0-6-1-8-6-3-0-3-8"
+           style="fill:#000000;stroke-width:84.5091;paint-order:fill markers stroke"
+           d="m 1496.0564,6390.5459 31.2598,54.1619 c 2.0174,3.4926 -0.5617,4.6844 -3.1257,3.9972 l -14.1405,-3.4786 c -3.227,-0.8615 -4.3599,-0.8895 -4.343,2.5275 l 3e-4,36.534 c 0.2288,9.8069 -1.6099,20.7224 -5.2035,25.7602 l -130.1307,177.262 c -5.0345,5.7347 -5.8241,16.5814 -5.8241,22.2402 v 98.5317 l -19.3022,10e-5 v -104.8718 c 0,-12.9615 3.683,-19.5584 10.8802,-29.231 l 125.3536,-171.0591 c 2.2758,-4.3502 4.8323,-12.7293 4.9237,-19.3507 l 5e-4,-35.8156 c 0,-3.4187 -1.1169,-3.3917 -4.3439,-2.5275 l -14.1414,3.4786 c -2.5677,0.6928 -5.1413,-0.5054 -3.1248,-3.9972 z"
+           sodipodi:nodetypes="cccccccccccccccccccc" />
+        <path
+           id="path2013-7-2-5"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:23.479;paint-order:markers fill stroke"
+           d="m 1450.8976,6751.6464 c -7.6056,4.3911 -16.9865,14.3413 -16.9865,27.8054 v 28.6302 h 33.9736 v -28.6302 c 0,-13.4641 -9.3814,-23.4143 -16.9871,-27.8054 z"
+           sodipodi:nodetypes="csccsc" />
+        <path
+           id="path2013-7-2-9-8"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:23.479;paint-order:markers fill stroke"
+           d="m 1450.3239,6406.6124 c -7.6057,-4.3912 -16.9865,-14.3413 -16.9865,-27.8054 v -28.63 h 33.9735 v 28.63 c 0,13.4641 -9.3814,23.4142 -16.987,27.8054 z"
+           sodipodi:nodetypes="csccsc" />
+        <path
+           style="color:#000000;fill:#d92124;fill-rule:evenodd;paint-order:markers fill stroke"
+           d="m 1400.6582,6350.1777 v 102.1973 l -94.4824,249.541 v 106.166 h 19.2363 v -102.6465 l 94.4824,-249.541 v -105.7168 z"
+           id="path4567-1" />
+      </g>
+      <rect
+         style="fill:none;fill-opacity:0.704615;fill-rule:evenodd;stroke:#000000;stroke-width:7.9375;paint-order:markers fill stroke"
+         id="rect4727-8-9"
+         width="341.3125"
+         height="513.29169"
+         x="1282.3739"
+         y="6325.1763"
+         ry="27.78125"
+         rx="27.78125" />
+    </g>
+  </g>
+</svg>

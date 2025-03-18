@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.916668mm"
+   height="52.916668mm"
+   viewBox="0 0 52.916668 52.916668"
+   version="1.1"
+   id="svg13810"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Segnale stradale italiano - veicoli esplosivi.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13812"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76257015"
+     inkscape:cx="139.65928"
+     inkscape:cy="-138.34793"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs13807" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-68.262457,-58.894466)">
+    <g
+       id="g13791"
+       transform="translate(-1199.2612,-821.8007)">
+      <rect
+         x="1267.9205"
+         y="881.09204"
+         width="52.122917"
+         height="52.122917"
+         rx="4.6302085"
+         ry="4.6302085"
+         fill="#ffffff"
+         stroke="#000000"
+         stroke-width="0.80368"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;paint-order:markers fill stroke"
+         id="rect726-2-2-2" />
+      <path
+         id="rect13498-0"
+         style="fill:#000000;fill-rule:evenodd;stroke-width:1.09007;stroke-opacity:0.646154"
+         d="m 1306.6683,918.62569 c -0.1215,0.0448 -0.2524,0.0707 -0.3898,0.0707 h -2.8371 v 5.31652 c 0,0.60443 0.4864,1.09083 1.0907,1.09083 h 1.0448 c 0.6044,0 1.0914,-0.4864 1.0914,-1.09083 z m -25.3724,0.0707 v 5.31652 c 0,0.60443 0.487,1.09083 1.0914,1.09083 h 1.0447 c 0.6044,0 1.0909,-0.4864 1.0909,-1.09083 v -5.31652 z m 4.0279,0 v 5.31652 c 0,0.60443 0.4865,1.09083 1.0909,1.09083 h 1.0447 c 0.6045,0 1.0908,-0.4864 1.0908,-1.09083 v -2.3454 h 3.9332 a 1.6250043,1.6249891 0 0 0 1.4984,0.99874 1.6250043,1.6249891 0 0 0 1.499,-0.99874 h 3.9332 v 2.3454 c 0,0.60443 0.4864,1.09083 1.0909,1.09083 h 1.0447 c 0.6045,0 1.0908,-0.4864 1.0908,-1.09083 v -5.31652 h -3.2264 v 1.71759 h -3.9332 a 1.6250043,1.6249891 0 0 0 -1.499,-0.9977 1.6250043,1.6249891 0 0 0 -1.4977,0.9977 h -3.9339 v -1.71759 z" />
+      <rect
+         style="fill:#000000;fill-rule:evenodd;stroke-width:0.803846;stroke-opacity:0.646154"
+         id="rect13628-0"
+         width="27.392557"
+         height="3.180336"
+         x="1280.2858"
+         y="914.6109" />
+      <path
+         id="rect13628-1-4"
+         style="fill:#000000;fill-rule:evenodd;stroke-width:2.16526;stroke-opacity:0.646154"
+         d="m 1280.2856,890.68646 c 0,0 9.1289,-0.40452 13.6964,-0.40452 4.5675,0 13.6964,0.40452 13.6964,0.40452 l 10e-5,23.07516 h -27.3926 z"
+         sodipodi:nodetypes="czcccc" />
+      <rect
+         style="fill:#ff6600;fill-rule:evenodd;stroke-width:0.801346;stroke-opacity:0.646154"
+         id="rect13653-0"
+         width="21.010908"
+         height="16.841654"
+         x="1283.4764"
+         y="893.82581" />
+    </g>
+  </g>
+</svg>

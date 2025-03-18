@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="158.75mm"
+   height="158.75mm"
+   viewBox="0 0 158.75 158.75"
+   version="1.1"
+   id="svg17149"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Segnale stradale italiano 1992 - ponte (viabilità autostradale).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17151"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76257015"
+     inkscape:cx="235.38818"
+     inkscape:cy="133.10251"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs17146" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.102766,-24.713773)">
+    <g
+       id="g10330-0"
+       transform="translate(4455.468,-298.20917)">
+      <rect
+         style="fill:#27884d;fill-rule:evenodd;stroke-width:11.8161"
+         id="rect9105-2"
+         width="158.75"
+         height="158.75"
+         x="-4412.3652"
+         y="322.92294" />
+      <g
+         id="g9051-6"
+         transform="matrix(2.1772821,0,0,2.1772821,5864.2287,-59.891577)">
+        <path
+           id="path4522-1-9"
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:4.92601"
+           d="m -4683.0263,193.40628 a 25.651611,25.651501 0 0 0 -25.6517,25.65167 25.651611,25.651501 0 0 0 2.0072,9.93582 h 47.2891 a 25.651611,25.651501 0 0 0 2.0071,-9.93582 25.651611,25.651501 0 0 0 -25.6517,-25.65167 z" />
+        <path
+           id="path4522-11"
+           style="fill:#000000;fill-rule:evenodd;stroke-width:4.6804"
+           d="m -4683.0258,194.68579 a 24.372499,24.372684 0 0 0 -24.3727,24.37267 24.372499,24.372684 0 0 0 1.7286,9.00514 l 1.5126,5.2e-4 23.7195,-4.75475 h 0.324 c 0.01,-1.02577 0.045,-2.28999 0.1778,-3.30058 a 5.2451577,5.2451577 0 0 1 0.05,-0.34261 c 0.01,-0.0458 0.015,-0.0911 0.023,-0.13539 v 0.002 a 5.2451577,5.2451577 0 0 1 5.133,-4.18114 5.2451577,5.2451577 0 0 1 5.1377,4.18992 l 0.013,-0.0103 c 0.1917,1.06306 0.2445,2.58298 0.2506,3.77858 h 0.1024 l 8.1132,4.75475 h 0.7286 a 24.372499,24.372684 0 0 0 1.7286,-9.00566 24.372499,24.372684 0 0 0 -24.3722,-24.37267 z" />
+      </g>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.64583"
+         id="rect9105-4-6-8-4"
+         width="153.45833"
+         height="153.45833"
+         x="-4409.7192"
+         y="325.56891"
+         ry="7.9375"
+         rx="7.9375" />
+    </g>
+  </g>
+</svg>

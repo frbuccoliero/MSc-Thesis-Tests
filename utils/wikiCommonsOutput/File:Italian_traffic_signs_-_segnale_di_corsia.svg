@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="500"
+   height="250"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Italian_traffic_signs_-_divieto_di_sorpasso.svg">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="705"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.504375"
+     inkscape:cx="242.72464"
+     inkscape:cy="95.13739"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-object-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-global="true"
+     inkscape:window-maximized="1"
+     inkscape:snap-midpoints="true" />
+  <defs
+     id="defs5" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1;opacity:1"
+     id="rect5490"
+     width="499"
+     height="249"
+     x="0.5"
+     y="0.5"
+     rx="0"
+     ry="0" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect6000"
+     width="484"
+     height="234"
+     x="8"
+     y="8"
+     rx="26.000002"
+     ry="26.000002" />
+  <g
+     id="g2895"
+     transform="matrix(2.5593238,-0.64281106,0.64281106,2.5593238,-416.67191,-607.90895)"
+     style="fill:#e20000;fill-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 333.48195,106.51943 250,190 166.52086,106.51943 c -1.98619,-1.98599 -2.34611,-4.97736 -0.89104,-7.377993 1.45768,-2.40028 4.27875,-3.46079 6.95519,-2.615472 l 53.07506,16.756005 c 1.59196,0.50218 3.19889,0.17419 4.46268,-0.9154 1.26585,-1.08806 1.83132,-2.6289 1.56923,-4.27697 l -6.79806,-43.089601 h 50.21181 L 268.3052,108.0896 c -0.26671,1.64772 0.30707,3.18842 1.57101,4.27697 1.26591,1.08802 2.87368,1.4193 4.46269,0.9154 l 53.07485,-16.756005 c 2.67925,-0.845662 5.49716,0.214552 6.95533,2.615472 1.45768,2.400633 1.09851,5.392003 -0.88748,7.377993 z"
+     style="fill:#000200;fill-rule:evenodd;stroke-width:0.15289199"
+     id="path7375" />
+</svg>
