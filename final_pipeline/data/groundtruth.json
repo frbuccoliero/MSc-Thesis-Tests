@@ -47,8 +47,7 @@
         "GHS_00017"
     ],
     "positive_00015.jpeg" : [
-        "GHS_00012",
-        "GHS_00017"
+        "GHS_00014"
     ],
     "positive_00016.jpeg" : [
         "GHS_00014"
@@ -58,5 +57,52 @@
     ],
     "positive_00018.jpeg" : [
         "GHS_00014"
+    ],
+    "positive_00019.jpeg" : [
+        "GHS_00014",
+        "GHS_00016"
+    ],
+    "positive_00020.jpeg" : [
+        "GHS_00017"
+    ],
+    "positive_00021.jpeg" : [
+        "GHS_00017",
+        "GHS_00016"
+    ],
+    "positive_00022.jpeg" : [
+        "GHS_00016"
+    ],
+    "positive_00023.jpeg" : [
+        "GHS_00012"
+    ],
+    "positive_0002.jpeg" : [
+        "GHS_00014"
+    ],
+    "positive_00025.jpeg" : [
+        "GHS_00014"
+    ],
+    "positive_00026.jpeg" : [
+        "GHS_00014",
+        "GHS_00017"
+    ],
+    "positive_00027.jpeg" : [
+        "GHS_00014"
+    ],
+    "positive_00028.jpeg" : [
+        "GHS_00014"
+    ],
+    "positive_00029.jpeg" : [
+        "GHS_00014"
+    ],
+    "positive_00030.jpeg" : [
+        "GHS_00014"
+    ],
+    "positive_00031.jpeg" : [
+        "GHS_00014",
+        "GHS_00016"
+    ],
+    "positive_00032.jpeg" : [
+        "GHS_00014",
+        "GHS_00016"
     ]
 }
