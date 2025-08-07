@@ -525,7 +525,7 @@ def check_template_match(candidate_rect, template_info, image, ncc_threshold):
     ncc_score = np.max(ncc_result) if ncc_result.size > 0 else 0
 
     if ncc_score > ncc_threshold:
-        #print(f"** Found {template_info['name']} with NCC score {ncc_score} **")
+        print(f"** Found {template_info['name']} with NCC score {ncc_score} **")
         return {
             'vertices': quad_vertices,
             'colors': candidate_rect['colors'],
@@ -536,7 +536,7 @@ def check_template_match(candidate_rect, template_info, image, ncc_threshold):
             'template_name': template_info['name']
         }
     else:
-        #print(f"NCC score {ncc_score} for {template_info['name']} is below threshold {ncc_threshold}")
+        print(f"NCC score {ncc_score} for {template_info['name']} is below threshold {ncc_threshold}")
         return None
 
 
@@ -598,13 +598,13 @@ def symbol_detection_pipeline(image_path, templates, reference_colors, rgb_thres
         raise ValueError(f"Could not load image: {image_path}")
 
     time_color_start = time.time()
-    #print(f"Time taken to load image: {time_color_start - time_start} seconds")
+    print(f"Time taken to load image: {time_color_start - time_start} seconds")
         
     # Step 1-2: Color splitting using RGB
     color_masks = get_rgb_masks(image, reference_colors, rgb_threshold, black_val_threshold, white_sat_threshold, white_val_threshold)
 
     time_color_end = time.time()
-    #print(f"Time taken to get {len(color_masks)} color masks: {time_color_end - time_color_start} seconds")
+    print(f"Time taken to get {len(color_masks)} color masks: {time_color_end - time_color_start} seconds")
 
     time_line_start = time.time()
     # Step 3-4: Line detection and rectangle finding
@@ -618,15 +618,15 @@ def symbol_detection_pipeline(image_path, templates, reference_colors, rgb_thres
         # Each result is a list of segments for that mask; add directly to all_segments
         for segs in results:
             all_segments.append(segs)
-    #print(f"Found {sum(len(segs) for segs in all_segments)} segments over all masks")
+    print(f"Found {sum(len(segs) for segs in all_segments)} segments over all masks")
     
     # no need to parallelize this
     for idx_mask, mask in enumerate(color_masks):
-        #print(f"Post-processing mask {idx_mask}")
+        print(f"Post-processing mask {idx_mask}")
         segments = merge_collinear_segments(all_segments[idx_mask], angle_tolerance, distance_tolerance)
-        #print(f"Found {len(segments)} segments after merging")
+        print(f"Found {len(segments)} segments after merging")
         loops = find_loops(segments, adjacency_radius)
-        #print(f"Found {len(loops)} loops")
+        print(f"Found {len(loops)} loops")
         quads = [
             {
             'vertices': np.array(q),
@@ -635,13 +635,13 @@ def symbol_detection_pipeline(image_path, templates, reference_colors, rgb_thres
             for q in get_quadrilaterals_from_loops(loops, segments)
             ]
         all_quads.extend(quads)
-        #print(f"Found {len(quads)} quads")
-    #print(f"Found {len(all_quads)} quads over all masks before deduplication")
+        print(f"Found {len(quads)} quads")
+    print(f"Found {len(all_quads)} quads over all masks before deduplication")
     all_quads = deduplicate_quadrilaterals_by_colors(all_quads, dedup_thresh)
-    #print(f"Found {len(all_quads)} quads over all masks after deduplication")
+    print(f"Found {len(all_quads)} quads over all masks after deduplication")
 
     time_line_end = time.time()
-    #print(f"Time taken to get {len(all_quads)} quads: {time_line_end - time_line_start} seconds")
+    print(f"Time taken to get {len(all_quads)} quads: {time_line_end - time_line_start} seconds")
     
     time_template_start = time.time()
     # Step 5: Template matching and verification
@@ -650,7 +650,8 @@ def symbol_detection_pipeline(image_path, templates, reference_colors, rgb_thres
     successful_matches = 0
     
     for candidate_idx, candidate in enumerate(all_quads):
-        #print(f"Checking candidate {candidate_idx}")
+        print(f"Checking candidate {candidate_idx}")
+        candidate_matches = []
         for template_idx, template_info in enumerate(templates):
             template_attempts += 1
 
@@ -664,11 +665,15 @@ def symbol_detection_pipeline(image_path, templates, reference_colors, rgb_thres
                 match_result['template_info'] = template_info
                 match_result['candidate_idx'] = candidate_idx
                 match_result['template_idx'] = template_idx
-                final_matches.append(match_result)
-                successful_matches += 1
-    #print(f"Found {len(final_matches)} matches")
+                candidate_matches.append(match_result)
+        if candidate_matches:
+            # Select the match with the best (highest) NCC score
+            best_match = max(candidate_matches, key=lambda m: m['ncc_score'])
+            final_matches.append(best_match)
+            successful_matches += 1
+    print(f"Found {len(final_matches)} matches")
     time_template_end = time.time()
-    #print(f"Time taken to get {len(final_matches)} matches: {time_template_end - time_template_start} seconds")
+    print(f"Time taken to get {len(final_matches)} matches: {time_template_end - time_template_start} seconds")
 
     results = {
         'matches': final_matches,
@@ -681,7 +686,7 @@ def symbol_detection_pipeline(image_path, templates, reference_colors, rgb_thres
             'reference_colors': reference_colors
         }
     }
-    #print(f"Time taken to run pipeline: {time.time() - time_start} seconds")
+    print(f"Time taken to run pipeline: {time.time() - time_start} seconds")
     return results
 
 def visualize_results(image_path, results, output_path=None):
@@ -717,7 +722,7 @@ def visualize_results(image_path, results, output_path=None):
     
     if output_path:
         plt.savefig(output_path, bbox_inches='tight', dpi=150)
-        #print(f"Visualization saved to: {output_path}")
+        print(f"Visualization saved to: {output_path}")
     
     plt.show()
     
