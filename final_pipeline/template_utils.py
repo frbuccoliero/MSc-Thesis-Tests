@@ -108,6 +108,30 @@ def load_template_info(template_path, clusters, rotated=False):
 		'name': template_path.split('/')[-1].split('.')[0]
 	}
 
+def get_color_template_freq(templates_info):
+  '''
+  For each color, count the number of times it appears in the templates.
+  Then, sort the colors by frequency, and return the indices of the colors in the order of appearance in the templates (highest frequency first).
+
+  Args: 
+    templates_info: list of template info dictionaries, each containing a 'colors' field with color indices
+
+  Return: 
+    color_template_freq: array containing the indices of the colors, in order of appearance in the templates (highest frequency first)
+  '''
+  # Count the frequency of each color index across all templates
+  color_counts = Counter()
+  for info in templates_info:
+    # info['colors'] is a list of color indices for this template
+    color_counts.update(info.get('colors', []))
+
+  # Sort color indices by frequency (highest first), then by color index (for stable ordering)
+  sorted_colors = sorted(color_counts.items(), key=lambda x: (-x[1], x[0]))
+
+  # Return only the color indices, as a list or numpy array
+  color_template_freq = [color_idx for color_idx, count in sorted_colors]
+  return color_template_freq
+
 if __name__ == "__main__":
 	
 	# parse args
@@ -138,7 +162,9 @@ if __name__ == "__main__":
 			all_templates.append(template_info)
 		print("Added template: ", template)
 
-	pickle_save = (reference_colors, all_templates)
+	color_template_freq = get_color_template_freq(all_templates)
+
+	pickle_save = (reference_colors, all_templates, color_template_freq)
 	
 	with open(pickle_path, "wb") as f:
 		pickle.dump(pickle_save, f)
